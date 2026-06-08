@@ -1,0 +1,29 @@
+[
+    {
+        "titular": "001",
+        "agencia": "hghfgcfc",
+        "numero": "3428-8",
+        "cpf": "6754646547658768",
+        "saldo": 0,
+        "senha": 335390,
+        "chavepix": []
+    },
+    {
+        "titular": "001",
+        "agencia": "nhecofh",
+        "numero": "3186-6",
+        "cpf": "897655476",
+        "saldo": 0,
+        "senha": 862732,
+        "chavepix": []
+    },
+    {
+        "titular": "001",
+        "agencia": "bcestt",
+        "numero": "6526-9",
+        "cpf": "978675213",
+        "saldo": 0,
+        "senha": 519698,
+        "chavepix": []
+    }
+]
